@@ -1,0 +1,34 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/TabiDavid/cse341-team
+
+3. Briefly list and describe the elements of the application that are functioning.
+
+I do not sure is everythin is working well because I am new doing all this app.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+The destribution of files I think are not right the PORT of 5000 and 3000 give me problems.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+I really like how writing codes we can make interesting things as creating forms and submit them in one localhost.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+I am happy about what I have done because is my first time doing this and I think I have understood more that I have though. 
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   *4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I believe the requirements are part of what the program must does but the way and process I think is not the correct way, I also believe that all this work require 
+practice and practice. 
